@@ -1,2 +1,5 @@
 # hellow-world
-just another repository
+
+Hi humen!
+
+Hubus~ jjj im a sopur man!
